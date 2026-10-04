@@ -6,6 +6,7 @@
 No account. No tracking.
 
 [![Download](https://img.shields.io/badge/Download-v0.0.1-00C6FF?style=for-the-badge)](https://github.com/cobrasilent/webra-releases/releases/latest)
+[![Website](https://img.shields.io/badge/Website-Visit-2C5364?style=for-the-badge)](https://google.com)
 
 </div>
 
