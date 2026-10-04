@@ -1,6 +1,6 @@
 <div align="center">
 
-# Webra
+# Webra <img src="webra.ico" alt="Webra icon" width="40">
 
 **A lean, native browser with a built-in ad blocker and full-page translation.**
 No account. No tracking.
